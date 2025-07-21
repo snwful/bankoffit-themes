@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 - Development updates
+- Added contributor information for snwful <snwful@gmail.com>
 
 ## [1.0.0] - 2023-10-01
 - Initial release of the Bankoffit WordPress theme
+
